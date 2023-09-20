@@ -31,7 +31,7 @@ button {
     margin: 1px -1px 12px 17px;
     border-radius: 50%;
     background-color: white;
-    border: navajowhite;
+    border: none;
     font-size: 20px;
     box-shadow: 1px 7px 11px 0px;
 }
